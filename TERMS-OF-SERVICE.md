@@ -1,5 +1,7 @@
 # TERMS OF SERVICE
 
+- Last updated: 24/01/2024
+
 Dear visitor, please read the terms of use carefully before using the bot. The right to make changes unilaterally belongs to Beftli and all our users are deemed to have accepted these changes, which will be shared by Beftli on an up-to-date basis.
 
 # PRIVACY
